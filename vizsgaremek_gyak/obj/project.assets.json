@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sz0racnik\\Documents\\2021-2022-vizsgaremek-nappali-14b-gyak\\vizsgaremek_gyak\\vizsgaremek_gyak.csproj",
+      "projectUniqueName": "C:\\Users\\sz0racnik\\Documents\\vizsgaremek-gyakrolas-racz-nikoletta\\vizsgaremek_gyak\\vizsgaremek_gyak.csproj",
       "projectName": "vizsgaremek_gyak",
-      "projectPath": "C:\\Users\\sz0racnik\\Documents\\2021-2022-vizsgaremek-nappali-14b-gyak\\vizsgaremek_gyak\\vizsgaremek_gyak.csproj",
+      "projectPath": "C:\\Users\\sz0racnik\\Documents\\vizsgaremek-gyakrolas-racz-nikoletta\\vizsgaremek_gyak\\vizsgaremek_gyak.csproj",
       "packagesPath": "C:\\Users\\sz0racnik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sz0racnik\\Documents\\2021-2022-vizsgaremek-nappali-14b-gyak\\vizsgaremek_gyak\\obj\\",
+      "outputPath": "C:\\Users\\sz0racnik\\Documents\\vizsgaremek-gyakrolas-racz-nikoletta\\vizsgaremek_gyak\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sz0racnik\\AppData\\Roaming\\NuGet\\NuGet.Config",

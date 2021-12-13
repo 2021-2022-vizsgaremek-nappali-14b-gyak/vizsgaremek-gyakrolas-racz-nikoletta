@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vizsgaremek_gyak", "vizsgaremek_gyak.csproj", "{57BFF3C2-7950-40AF-92A4-E5CE6A9E81DB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{363BC90C-9A27-4FD1-9E83-1D183F38E67A}"
+	ProjectSection(SolutionItems) = preProject
+		..\.github\workflows\telepit-vizsgaremek.yml = ..\.github\workflows\telepit-vizsgaremek.yml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

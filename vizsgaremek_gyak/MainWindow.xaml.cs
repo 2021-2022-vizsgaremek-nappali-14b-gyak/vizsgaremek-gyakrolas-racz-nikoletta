@@ -16,26 +16,27 @@ using vizsgaremek_gyak.Navigation;
 using vizsgaremek_gyak.Pages;
 
 namespace vizsgaremek_gyak
-{
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+
+
+{/// <summary>
+ /// Interaction logic for MainWindow.xaml
+ /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
-            // Statikus osztály a Navigate
-            // Eltárolja a nyitó ablakt, hogy azon tudjuk módosítani a "page"-ket
-            Navigate.mainWindow = this;
-            // Létrehozzuk a nyitó "UsuerControl" (WelcomPage)
+            Navigation.mainWindow = this;
+
             WelcomePage welcomePage = new WelcomePage();
-            // Megjelnítjük a WelcomePage-t
-            Navigate.Navigation(welcomePage);
-
-
+            Navigate(welcomePage);
         }
 
+        public void Navigate(UserControl userControl)
+        {
+            PageContent.Children.Add(userControl);
+        }
 
+       
+        }
     }
-}

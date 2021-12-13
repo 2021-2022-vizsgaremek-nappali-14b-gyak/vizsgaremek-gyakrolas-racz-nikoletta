@@ -9,16 +9,14 @@ using vizsgaremek_gyak.Pages;
 
 namespace vizsgaremek_gyak.Navigation
 {
-    public static class Navigate
+    public static class Navigation
     {
         public static MainWindow mainWindow;
 
-        public static void Navigation(UserControl userControl)
+        public static void Navigate(UserControl userControl)
         {
+            mainWindow.PageContent.Children.Clear();
             mainWindow.PageContent.Children.Add(userControl);
         }
     }
-
-    
 }
-

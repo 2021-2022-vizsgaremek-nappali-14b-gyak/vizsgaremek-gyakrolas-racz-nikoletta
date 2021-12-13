@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vasvári")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Kilépés gomb")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1")]

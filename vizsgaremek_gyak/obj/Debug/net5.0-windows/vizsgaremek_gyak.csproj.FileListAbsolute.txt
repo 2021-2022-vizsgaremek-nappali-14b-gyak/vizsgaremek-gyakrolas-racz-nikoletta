@@ -1,0 +1,5 @@
+C:\Users\sz0racnik\Documents\vizsgaremek-gyakrolas-racz-nikoletta\vizsgaremek_gyak\obj\Debug\net5.0-windows\vizsgaremek_gyak.csprojAssemblyReference.cache
+C:\Users\sz0racnik\Documents\vizsgaremek-gyakrolas-racz-nikoletta\vizsgaremek_gyak\obj\Debug\net5.0-windows\Pages\WelcomePage.g.cs
+C:\Users\sz0racnik\Documents\vizsgaremek-gyakrolas-racz-nikoletta\vizsgaremek_gyak\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\sz0racnik\Documents\vizsgaremek-gyakrolas-racz-nikoletta\vizsgaremek_gyak\obj\Debug\net5.0-windows\vizsgaremek_gyak_MarkupCompile.cache
+C:\Users\sz0racnik\Documents\vizsgaremek-gyakrolas-racz-nikoletta\vizsgaremek_gyak\obj\Debug\net5.0-windows\vizsgaremek_gyak_MarkupCompile.lref

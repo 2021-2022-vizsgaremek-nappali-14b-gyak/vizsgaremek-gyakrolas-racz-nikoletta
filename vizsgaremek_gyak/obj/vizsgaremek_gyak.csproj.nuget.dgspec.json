@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\sz0racnik\\Documents\\vizsgaremek-gyakrolas-racz-nikoletta\\vizsgaremek_gyak\\vizsgaremek_gyak.csproj": {
-      "version": "1.0.0",
+      "version": "0.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\sz0racnik\\Documents\\vizsgaremek-gyakrolas-racz-nikoletta\\vizsgaremek_gyak\\vizsgaremek_gyak.csproj",
         "projectName": "vizsgaremek_gyak",
@@ -58,6 +58,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

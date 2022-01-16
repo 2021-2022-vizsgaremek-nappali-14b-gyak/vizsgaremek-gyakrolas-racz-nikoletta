@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 
 namespace vizsgaremek_gyak.Pages
 {
+
     /// <summary>
     /// Interaction logic for WelcomePage.xaml
     /// </summary>

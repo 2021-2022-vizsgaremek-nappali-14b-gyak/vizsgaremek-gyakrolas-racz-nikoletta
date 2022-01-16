@@ -7,15 +7,27 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Pages\WelcomePage.xaml.cs">
+    <Compile Update="Views\Pages\DatabaseSourcePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\ProgramInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\WelcomePage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="MainWindow.xaml">
+    <Page Update="Views\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Pages\WelcomePage.xaml">
+    <Page Update="Views\Pages\DatabaseSourcePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\ProgramInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\WelcomePage.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

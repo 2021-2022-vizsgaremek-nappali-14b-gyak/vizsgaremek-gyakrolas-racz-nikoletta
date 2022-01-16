@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+	  <PublishSingleFile>true</PublishSingleFile>
+	  <SelfContained>false</SelfContained>
+	  
+	    <PublishSingleFile>true</PublishSingleFile>
+      <SelfContained>false</SelfContained>
+      <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+<UseWPF>true</UseWPF>
+    <Version>0.0.1</Version>
+    <Authors>Rácz Nikoletta</Authors>
+    <Company>Vasvári</Company>
+    <Product>vizsgaremek</Product>
+    <Description>Kilépés gomb</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controls\" />
+    <Folder Include="Validations\" />
+    <Folder Include="Resources\" />
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Icons\back_icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Icons\exit.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
